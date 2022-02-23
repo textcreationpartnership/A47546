@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals of a new modell for re-building the city of London with houses, streets, wharfes, to be forthwith set out by His Majesties and the city surveyors with the advantages that will accrue by building the same accordingly.</title>
+            <author>Knight, Val. (Valentine)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47546</idno>
+            <idno type="STC">Wing K694</idno>
+            <idno type="STC">ESTC R29936</idno>
+            <idno type="EEBO-CITATION">11225100</idno>
+            <idno type="OCLC">ocm 11225100</idno>
+            <idno type="VID">46916</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47546)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46916)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1445:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals of a new modell for re-building the city of London with houses, streets, wharfes, to be forthwith set out by His Majesties and the city surveyors with the advantages that will accrue by building the same accordingly.</title>
+                  <author>Knight, Val. (Valentine)</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Bruges, for Samuel Speed ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Val. Knight.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  Fire, 1666.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:46916:1"/>
+            <head>Propoſals of a new Modell for Re-building the City of LONDON, With Houſes, Streets and VVharfes, to be forthwith ſet out by his Majeſties and the City Surveyors with the Advantages that will accrew by Building the ſame accordingly, Viz.</head>
+            <argument>
+               <list>
+                  <item>
+                     <hi>I.</hi> The Owners ſatisfied for their Ground, the Builder for Building, and the Poor Inhabitants their Loſſes by the Fire. </item>
+                  <item>
+                     <hi>II.</hi> The City Built ſtately with large Streets, the Houſes not in danger of Fire, and the ground all put to the loſt Profit. </item>
+                  <item>
+                     <hi>III.</hi> The People will walk eaſy and dry, the Houſes of Office and Streets kept ſweet and cleane, and Goods delivered much cheaper. </item>
+                  <item>
+                     <hi>IV.</hi> Convenient Houſes, Shops, Warehouſes and Wharfes not dear. </item>
+                  <item>
+                     <hi>V.</hi> Advanced to his Majeſty by Fines. <hi>372670</hi> l.</item>
+                  <item>
+                     <hi>VI.</hi> A Revenew for ever ſetled upon the Crown of <hi>per Ann. 223517</hi> l. <hi>10</hi> s.</item>
+               </list>
+            </argument>
+            <p n="1">I. ONe Rowe of buildings fronting towards the River of <hi>Thames</hi> from the <hi>Temple</hi> to <hi>Tower-dock,</hi> to be built Uni<g ref="char:EOLhyphen"/>form with ſtone or brick, the front, backſide, and partition walls, at leaſt one brick and half thick from the bot<g ref="char:EOLhyphen"/>tom to the top, the Sellars arched with brick, or ſtone 10 foot high, and 15 foot wide, with two Vaults be<g ref="char:EOLhyphen"/>fore each door in the Street of the ſame bigneſs, and ſhall ſtand at leaſt 80 foot from the high water mark, and ſhall be all 30 foot in the front, and 25 foot deep, and 4 Stories high beſides the Sellars and Roofs, the two firſt Stories 10 foot high each, and the two upmoſt Stories 8 foot high each, and there ſhall be no Garden, Yard, or Backſide, belonging to them, but ſhall have houſes built after the ſame manner cloſe to the backſide of them fronting towards the North, with a Shore be<g ref="char:EOLhyphen"/>tween every two houſes to the <hi>Thames,</hi> over which ſhall be to each houſe (both on the foreſide and backſide) an houſe of Office, and a Peyatſoe of 10 foot wide paved with free ſtone for people to walk dry and eaſy upon, with the houſes continued over it, the Signes and Signe-Poſts to be of Iron or Copper, and an open Newell of 6 foot wide and 20 foot long between every 4 houſes, to give light to their ſeveral Stare Caſes, in which their houſes of Office ſhall be.</p>
+            <p n="2">II. Two Streets of 60 foot wide each, one from St. <hi>Dunſtons</hi> Church in <hi>Fleet-ſtreet</hi> to <hi>Tower-hill,</hi> and the other from <hi>Hol<g ref="char:EOLhyphen"/>born-bridge</hi> and <hi>Goldſmiths Rents</hi> to <hi>Newgate,</hi> and then to <hi>Leaden-hall-ſtreet,</hi> with a Common ſhore in the middle of each, of 6 foot high and 4 foot wide, with houſes and Peyatſoes on both ſides built as before.</p>
+            <p n="3">III. Twenty two Streets of 30 foot wide each, and each a Common ſhore, 10 whereof ſhall go in length from the <hi>Tem<g ref="char:EOLhyphen"/>ple</hi> to <hi>Tower-hill,</hi> 10 more whereof from <hi>Fetter-lane</hi> or <hi>Goldſmiths Rents,</hi> to the <hi>Old Bayly,</hi> and then towards <hi>Tower-hill</hi> and <hi>Crutchet Fryers,</hi> and the other two from <hi>Shooe-lane</hi> towards <hi>Biſhopsgate-ſtreet,</hi> between every of which ſhall be built houſes after the ſame manner, with Peyatſoes on both ſides of 5 foot wide, paved and built over as before.</p>
+            <p n="4">IV. Six Croſs Streets of 60 foot wide each, with each a Common ſhore as before, <hi>viz.</hi> One from <hi>Goldſmiths Rents</hi> by the <hi>Temple</hi> to the <hi>Thames,</hi> One from <hi>Smith-field</hi> down the <hi>Old Bayly</hi> to the <hi>Thames,</hi> One from <hi>Aldersgate</hi> to St. <hi>Pauls Church,</hi> and then to <hi>Pauls Wharf,</hi> One from <hi>Cripplegate</hi> to <hi>Queen-hive,</hi> One from <hi>Moregate</hi> to <hi>Dowgate-ſtairs,</hi> and one from <hi>Biſhopsgate-ſtreet</hi> to <hi>London-Bridge,</hi> together with the houſes on both ſides of the Cutt to have Peyatſoes of 10 foot wide built over as before.</p>
+            <p n="5">V. Six other Croſs Streets of 30 foot wide each, with each a Common ſhore as before, one leading from <hi>Shooe-lane</hi> to the <hi>Thames,</hi> one from <hi>Holborne Conduit</hi> to the <hi>Thames,</hi> one from <hi>Chriſt Church</hi> by the Weſt end of St. <hi>Pauls Church</hi> to the <hi>Thames,</hi> one from the Middle of the Wall between <hi>Aldersgate</hi> and <hi>Cripplegate</hi> to the <hi>Thames,</hi> one from the Middle of the Wall between <hi>Cripplegate</hi> and <hi>Moregate</hi> to the <hi>Thames,</hi> and one from the <hi>Poſterne Gate</hi> in <hi>Morefields</hi> to the <hi>Thames,</hi> with Peyatſoes on both ſides of them of 5 foot wide, paved and built over as before.</p>
+            <p n="6">VI. A Cutt of 30 foot wide for the <hi>Thames</hi> to run in, and Barges to ſwim in at high water, leading from <hi>Billingsgate</hi> up St. <hi>Mary-hill</hi> to <hi>Fanchurch-ſtreet,</hi> and ſo winding through <hi>Gratious-ſtreet</hi> to <hi>Broad-ſtreet,</hi> and then down <hi>Lowthbury</hi> to <hi>Holborne-bridge,</hi> and from <hi>Hockly-in-the-hole</hi> by <hi>Clerkenwell</hi> to <hi>Bridewell Dock,</hi> with Wharfes on both ſides of 80 foot wide, (which Cutt will coſt nothing digging, becauſe that which comes out of it will be uſefull in the buildings) the ſtone of all the Churches burnt, and the bricks and rubbiſh lying upon the ground (except St. <hi>Pauls,</hi> St. <hi>Brides,</hi> St. <hi>Pulchers, Chriſt-Church</hi> and <hi>Bow</hi>) to be pulled down and taken towards making good the walls of the ſaid Cutt.</p>
+            <p n="7">VII. The Owners of all the Ground to have their proportions reſpectively ſet out as near the place where it was, as may be, and to be enjoyned to lett the ſame to build at the rate of 3 <hi>s. per</hi> Foot <hi>per Ann.</hi> for every foot in the front, (which ſhall be 25 foot deep) for ever.</p>
+            <p n="8">VIII. The Builders to have 8 <hi>per Cent.</hi> for ever, for all the moneys they ſhall lay out in building, ſecured by a Rent-Charge upon the houſe or houſes they ſhall build.</p>
+            <p n="9">IX. Each houſe in the Streets of 60 foot wide, and by the <hi>Thames,</hi> to be Lett for 70 <hi>l.</hi> Fine, and 70 <hi>l per Ann.</hi> for 21 years, (which will coſt but 250 <hi>l.</hi> a piece building, and each in the Strees of 30 foot wide, for 50. <hi>l.</hi> Fine, and 50 <hi>l. per Ann.</hi> for the like time (which will coſt but 200 <hi>l.</hi> a piece building) and not for more or leſs; Out of which the ground Rent ſhall be firſt paid, which will be 4 <hi>l.</hi> 10 <hi>s.</hi> for every houſe, next the Builder his 8 <hi>per Cent.,</hi> which will be for ſome houſes 10 <hi>l.</hi> each, and for others 16 <hi>l.</hi> each, and the Remainder which will be 45 <hi>l.</hi> 10 <hi>s.</hi> for ſome, and 29 <hi>l.</hi> 10 <hi>s.</hi> for others, with all the Fines, ſhall be paid to the King, his Heirs, and Succeſſors, towards the maintenance of his Forces by Sea and Land, out of which ſhall be firſt paid and ſatisfied to every perſon that hath loſt by the Fire ſuch a proportion as the Parliament ſhall think fit.</p>
+            <list>
+               <item>There will be in the Great Streets, and by the <hi>Thames,</hi> 891 houſes;</item>
+               <item>In the Leſſer 6206 and 800 Wharfes,</item>
+               <item ana="#role_TOTAL">which will Amount to <hi>per Ann.</hi> 223517 <hi>l.</hi> 10 <hi>s.</hi>
+               </item>
+               <item>Beſides the Ground Rent and the Builders.</item>
+               <item>And the Fines for the Houſes and Wharfes,</item>
+               <item ana="#role_TOTAL">will Amount to 372670 <hi>l.</hi>
+               </item>
+            </list>
+            <closer>
+               <dateline>
+                  <date>20 <hi>Sept.</hi> 66.</date>
+               </dateline>
+               <signed>VAL. KNIGHT.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>H. Brugos,</hi> for <hi>Samuel Speed</hi> at the <hi>Rainbow</hi> in <hi>Fleet-ſtreet,</hi> 1666.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
